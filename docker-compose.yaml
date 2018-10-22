@@ -14,7 +14,7 @@ services:
    container_name: provectus-mysql
    image: mysql/mysql-server:5.7
    environment:
-    MYSQL_DATABASE: provectus
+    MYSQL_DATABASE: root
     MYSQL_ROOT_PASSWORD: 143625
     MYSQL_ROOT_HOST: '%'
    ports:
