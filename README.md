@@ -1,5 +1,13 @@
-# test-app
-It's test app for provectus
+# Docker Compose with Spring Boot, MySQL, NGINX
 
-Run container sh 
-  - docker-compose up -d
+## Stack
+- Docker
+- Java
+- Spring Boot
+- MySQL
+- NGINX
+- Maven
+
+## Run
+- Run command `docker-compose up -d`
+- Access to http://localhost/
