@@ -2,4 +2,4 @@
 It's test app for provectus
 
 Run container sh 
-  - 'docker-compose up -d'
+  - docker-compose up -d
